@@ -1,3 +1,6 @@
+requirements.txt:
+Pillow==10.1.0
+
 execute main.py!!!
 
 Hint:
