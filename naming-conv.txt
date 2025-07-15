@@ -1,0 +1,17 @@
+Variables:
+  * For private add underscore prefix: "_"
+  
+  PyQt6:
+    Buttons: btn_name
+    Layouts: lyt_name
+    Widgets: wgt_name
+    Actions: act_name
+    Slots:   slot_name
+    Pixmaps: pxm_name
+  
+  pathlib's Path opjects: path_name (as in "path_image", "path_working_file")
+
+Files:
+  Controllers:  ctrl_name
+  Models:       mdl_name
+  Views:        view_name

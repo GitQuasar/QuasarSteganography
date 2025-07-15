@@ -1,0 +1,11 @@
+QWidget {
+    font-family: "Iosevka Light";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+QLineEdit:read-only {
+    background: #575757;
+    font-weight: bold;
+    font-size: 14px;
+}

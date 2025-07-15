@@ -1,0 +1,2 @@
+# Controller
+The Controller component acts as an intermediary between the Model and the View. It receives input from the user via the View, processes that input, and updates the Model accordingly. Controllers are responsible for interpreting user actions, invoking appropriate methods on the Model to perform business logic operations, and selecting the appropriate View to display the result
